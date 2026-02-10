@@ -1,0 +1,8 @@
+# Thresholds and constants
+
+HIGH_RISK_THRESHOLD = 0.7
+MEDIUM_RISK_THRESHOLD = 0.4
+
+FORECAST_TIMEFRAME = "quarter"
+
+DEFAULT_WIN_RATE = 0.45

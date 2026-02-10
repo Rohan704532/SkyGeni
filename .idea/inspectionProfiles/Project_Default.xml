@@ -1,0 +1,49 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="langchain" />
+          <option value="langchain-community" />
+          <option value="langchain-core" />
+          <option value="langchain-groq" />
+          <option value="langchain-google-genai" />
+          <option value="faiss-cpu" />
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="python-dotenv" />
+          <option value="python-multipart" />
+          <option value="structlog" />
+          <option value="docx2txt" />
+          <option value="ipykernel" />
+          <option value="streamlit" />
+          <option value="pytest" />
+          <option value="pypdf" />
+          <option value="cfn-lint" />
+          <option value="PyMuPDF" />
+          <option value="beautifulsoup4" />
+          <option value="html5lib" />
+          <option value="jinja2" />
+          <option value="langchain-astradb" />
+          <option value="lxml" />
+          <option value="selenium" />
+          <option value="undetected-chromedriver" />
+          <option value="langgraph" />
+          <option value="ragas" />
+          <option value="langchain-mcp-adapters" />
+          <option value="mcp" />
+          <option value="ddgs" />
+          <option value="langchain-openai" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
